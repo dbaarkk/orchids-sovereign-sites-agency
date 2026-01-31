@@ -21,13 +21,7 @@ export const metadata: Metadata = {
     canonical: "/",
   },
   icons: {
-    icon: [
-      { url: "/favicon.ico", sizes: "any" },
-      { url: "/favicon.png", type: "image/png" },
-      { url: "/icon.png", type: "image/png", sizes: "192x192" },
-    ],
-    apple: "/apple-icon.png",
-    shortcut: "/favicon.ico",
+    icon: "/favicon.ico",
   },
   openGraph: {
     title: "Web Development Agency in India | Website Design & SEO | Sovereign Sites",
