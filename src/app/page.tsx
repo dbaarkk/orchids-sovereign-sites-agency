@@ -264,7 +264,7 @@ function Hero() {
   className="group flex items-center gap-3 bg-[#c9ff00] text-black px-8 py-4 rounded-full text-base font-semibold hover:bg-[#b8e600] transition-all duration-300"
 >
   Start Your Project
-  <ArrowUPRight className="w-5 h-5 group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" />
+  <ArrowUpRight className="w-5 h-5 group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" />
             </a>
             <a
               href="#services"
