@@ -473,7 +473,6 @@ function CTA() {
               href="https://book.sovereignsites.in"
               target="_blank"
               rel="noopener noreferrer"
-            >
               className="inline-flex items-center gap-3 bg-black text-white px-8 py-4 rounded-full text-base font-semibold hover:bg-black/80 transition-colors"
             >
               Book now
