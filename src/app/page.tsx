@@ -258,11 +258,13 @@ function Hero() {
             className="flex flex-col sm:flex-row items-center justify-center gap-4"
           >
             <a
-              href="#contact"
-              className="group flex items-center gap-3 bg-[#c9ff00] text-black px-8 py-4 rounded-full text-base font-semibold hover:bg-[#b8e600] transition-all duration-300"
-            >
-              Start Your Project
-              <ArrowUpRight className="w-5 h-5 group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" />
+  href="https://book.sovereignsites.in"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="group flex items-center gap-3 bg-[#c9ff00] text-black px-8 py-4 rounded-full text-base font-semibold hover:bg-[#b8e600] transition-all duration-300"
+>
+  Start Your Project
+  <ArrowUPRight className="w-5 h-5 group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" />
             </a>
             <a
               href="#services"
