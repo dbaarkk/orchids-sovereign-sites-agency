@@ -666,7 +666,7 @@ function Contact() {
                 </div>
                 <div>
                   <div className="text-white/50 text-sm">Email</div>
-                  <div className="font-medium">mailto:contact@sovereignsites.in</div>
+                  <div className="font-medium">contact@sovereignsites.in</div>
                 </div>
               </div>
               <div className="flex items-center gap-4">
