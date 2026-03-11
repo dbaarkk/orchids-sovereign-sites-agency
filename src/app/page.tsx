@@ -185,7 +185,7 @@ function Navbar() {
               <button
                 onClick={() => {
                   setIsOpen(false);
-                  openWhatsApp();
+                  window.open("https://wa.me/919329441312", "_blank");
                 }}
                 className="flex items-center justify-center gap-2 bg-[#c9ff00] text-black px-5 py-3 rounded-full text-sm font-semibold mt-4"
               >
