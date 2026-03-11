@@ -148,8 +148,7 @@ function Navbar() {
 
             <button
               onClick={() => 
-              window.open("https://wa.me/919329441312?text=Hi%20I%20am%20interested%20in%20your%20web%20development%20services", "_blank");
-              }}
+              window.open("https://wa.me/919329441312?text=Hi%20I%20am%20interested%20in%20your%20web%20development%20services", "_blank")}
               className="hidden md:flex items-center gap-2 bg-[#c9ff00] text-black px-5 py-2 rounded-full text-sm font-semibold hover:bg-[#b8e600] transition-colors"
             >
               Start a Project
@@ -701,8 +700,7 @@ function Contact() {
             <button
               type="button"
               onClick={() => 
-              window.open("https://wa.me/919329441312?text=Hi%20I%20am%20interested%20in%20your%20web%20development%20services", "_blank");
-              }}
+              window.open("https://wa.me/919329441312?text=Hi%20I%20am%20interested%20in%20your%20web%20development%20services", "_blank")}
               className="w-full mb-6 bg-[#c9ff00] text-black py-4 rounded-xl font-semibold hover:bg-[#b8e600] transition-colors flex items-center justify-center gap-3"
               >
                 <svg className="w-6 h-6" fill="currentColor" 
