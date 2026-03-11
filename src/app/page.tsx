@@ -147,7 +147,8 @@ function Navbar() {
             </div>
 
             <button
-              onClick=() => window.open("https://wa.me/919329441312", "_blank")}
+              onClick={() => 
+              window.open("https://wa.me/919329441312", "_blank")}
               className="hidden md:flex items-center gap-2 bg-[#c9ff00] text-black px-5 py-2 rounded-full text-sm font-semibold hover:bg-[#b8e600] transition-colors"
             >
               Start a Project
